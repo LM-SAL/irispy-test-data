@@ -1,3 +1,3 @@
 # irispy-test-data
 
-Contains data files used for irispy-lmsal test suite.
+Contains data files used for irispy test suite.
